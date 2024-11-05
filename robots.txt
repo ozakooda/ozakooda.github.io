@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozakooda.github.io/CUa/sitemap_index.txt
+Sitemap: https://ozakooda.github.io/KxU/sitemap_index.txt
+Sitemap: https://ozakooda.github.io/ZIe/sitemap_index.txt
+Sitemap: https://ozakooda.github.io/xfm/sitemap_index.txt
